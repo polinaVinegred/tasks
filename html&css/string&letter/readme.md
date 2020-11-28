@@ -1,4 +1,7 @@
-In this repository you can find a solution to the problem STRING AND LETTERS.
+string and letters
+==================
+
+#### In this repository you can find a solution to the problem STRING AND LETTERS.
 
 the essence of the task is to create a foreign site with a name and a link in the center.
 Solution prototype:
