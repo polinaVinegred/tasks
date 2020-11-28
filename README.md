@@ -1,5 +1,7 @@
-# tasks
-tasks in various programming languages
+tasks
+=====
+
+#### tasks in various programming languages
 
 This repository contains tasks of different levels and different programming languages.
 Here are collected the tasks I solved for raising the level, taken from hackathons, competitions or from customers personally.
