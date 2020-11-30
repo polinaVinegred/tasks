@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Yellowtail&display=swap');
+
+body {
+	background-color: #ffffff;
+	text-align: center;
+}
+
+.conteiner {
+	font-family: 'Yellowtail', cursive;
+	color: #212a31;
+	font-size: 30px;
+}
+
+.lyrics {
+  display: inline-block;
+  text-align: left;
+  margin: auto;
+  line-height: 1.6;
+}
+
+
+.lyrics p {
+  white-space: pre;
+}
+
+.centered {
+  text-align: center;
+}
