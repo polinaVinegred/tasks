@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Sirin+Stencil&display=swap');
+
+body {
+	background-color: #ffffff;
+}
+
+.conteiner {
+	font-family: 'Sirin Stencil', cursive;
+	color: #212a31;
+	font-size: 30px;
+}
