@@ -4,4 +4,5 @@ input ul
 #### 2 combined tasks for working with lists
 
 
-example: ![alt text](image/scrin.png)
+example: 
+![alt text](image/scrin.png)
