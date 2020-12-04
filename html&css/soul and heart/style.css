@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=East+Sea+Dokdo&display=swap');
+
+
+body {
+	font-family: 'East Sea Dokdo', cursive;
+	background-color: #ffffff;
+	font-size: 30px;
+}
+
+.container {
+		width: 100%;/*фиксируем ширину обертки*/
+        height: 100%;/*Задаем высоту обертки*/
+}
+
+.list {
+  		float: left; /*Задаем обтекание*/
+        width: 50%; /*Фиксируем ширину блока*/
+        text-align: center; /*Центрируем текст по горизонтали*/
+}
+
+.listes {
+		float: left; /*Задаем обтекание*/
+        width: 50%; /*Фиксируем ширину блока*/
+        text-align: center;
+}
+
+nav ul {
+    display: table;
+    margin: 0 auto;
+}
+
+.hre {
+	text-decoration: none;
+	color: black;
+}
+
+.hre:hover{
+	color: red;
+}
+
+.love {
+	list-style: disc;
+}
+
+.emotions {
+	list-style: circle;
+}
+
+.frendship {
+	list-style: square;
+}
